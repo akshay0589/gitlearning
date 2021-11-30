@@ -1,2 +1,6 @@
 tis is my first commit
+<<<<<<< HEAD
 this is my addon commit on first
+=======
+Removing my addon commit
+>>>>>>> 514ded8bacdf3c35bbb7a2643715f3320c889bc5
